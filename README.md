@@ -121,5 +121,4 @@ The system uses **MediaPipe** for hand landmark detection, **OpenCV** for prepro
 - [Conversion of Sign Language to Text and Speech using ML Techniques (ResearchGate)](https://www.researchgate.net/publication/335433017_Conversion_of_Sign_Language_To_Text_And_Speech_Using_Machine_Learning_Techniques)
 - [Translation of Sign Language Fingerspelling to Text using Image Processing (IJCA)](https://research.ijcaonline.org/volume77/number11/pxc3891313.pdf)
 - [An Improved Hand Gesture Recognition Algorithm (IOP Science)](https://iopscience.iop.org/article/10.1088/1757-899X/1116/1/012115)
-- And others as cited in the project report.
 
