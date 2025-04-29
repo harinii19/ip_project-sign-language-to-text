@@ -74,15 +74,6 @@ This dataset contains images representing hand signs for the 26 English alphabet
 
 ---
 
-## Dataset
-
-- **Custom Dataset** collected using webcam.
-- **Landmark-based** (coordinates of key hand points) representation.
-- 50–60 samples per alphabet collected under various lighting and hand orientations.
-- Preprocessed into binary images for efficient training.
-
----
-
 ## How to Run Locally
 
 1. Clone this repository:
